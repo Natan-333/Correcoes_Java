@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Natan\eclipse-workspace\ExConsultaFeriadosAPISemHashMap\src\main\java"/>
+			<item value="C:\Users\Natan\eclipse-workspace\ExCadastroPessoasAPI\src\main\java"/>
+			<item value="C:\Users\Natan\eclipse-workspace\ExConversaoMoedasAPI\src\main\java\model\Perfil.java"/>
+			<item value="C:\Users\Natan\eclipse-workspace\ExConsultaDevGitHubAPI\pom.xml"/>
+			<item value="C:\Users\Natan\eclipse-workspace\ExConsultaAPI"/>
+			<item value="C:\Users\Natan\eclipse-workspace\ddd2\src"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="ConsultaFeridadoAPIComHashMap"/>
+			<item value="ConsultaFeriadosAPISemHashMap"/>
+			<item value="DisponibilidadeDominioAPI"/>
+			<item value="CadastroPessoasAPI"/>
+			<item value="ConversaoMoedasAPI"/>
+			<item value="ConsultaDevGitHubAPI"/>
+			<item value="ConsultaAPI"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="EXConsultaFeridadoAPIComHashMap"/>
+			<item value="ExConsultaFeriadosAPISemHashMap"/>
+			<item value="ExDisponibilidadeDominioAPI"/>
+			<item value="ExCadastroPessoasAPI"/>
+			<item value="ExConversaoMoedasAPI"/>
+			<item value="ExConsultaDevGitHubAPI"/>
+			<item value="ExConsultaAPI"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

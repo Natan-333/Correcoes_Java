@@ -1,0 +1,14 @@
+package Service;
+
+public class JSONArray {
+
+	public JSONArray(String result) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public int length() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

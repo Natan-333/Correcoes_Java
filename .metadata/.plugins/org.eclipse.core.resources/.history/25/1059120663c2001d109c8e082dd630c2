@@ -1,0 +1,20 @@
+package program;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import org.apache.http.client.ClientProtocolException;
+
+import model.Feriado;
+import service.API_Feriado;
+
+public class programa {
+
+	public static void main(String[] args) throws ClientProtocolException, IOException {
+		
+		API_Feriado api_Feriado = new API_Feriado();
+		api_Feriado.VerifyFeriado();
+	}
+
+}

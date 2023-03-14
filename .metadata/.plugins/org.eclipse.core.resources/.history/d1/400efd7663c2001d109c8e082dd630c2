@@ -1,0 +1,24 @@
+package org.json;
+
+public class JSONObject {
+
+	public JSONObject(String result) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public boolean has(String string) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public Object get(String string) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getString(String string) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
